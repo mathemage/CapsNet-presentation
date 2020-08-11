@@ -2,6 +2,10 @@
 
 my [presentation](http://cyber.felk.cvut.cz/seminars/?event=1236) on [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829) for [Pattern Recognition and Computer Vision Reading Group](http://cmp.felk.cvut.cz/~toliageo/rg/index.html)
 
+## Slides
+
+slides available [here](http://cmp.felk.cvut.cz/~toliageo/rg/papers/slides/ha_capsules.pdf) or also at [SlideShare](https://www.slideshare.net/KarelHa1/dynamic-routing-between-capsules-237713801)
+
 ## Sources
 
 * original papers by the authors
